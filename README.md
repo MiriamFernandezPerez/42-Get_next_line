@@ -1,4 +1,4 @@
-# 📄 get_next_line - Lectura Eficiente Línea por Línea en C
+# 📄 Get Next Line - Lectura Eficiente Línea por Línea en C
 
 ## 🎯 Propósito y Alcance
 
